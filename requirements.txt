@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+
+
+#PyPi
+
+# git+https://github.com/username/your_package.git
